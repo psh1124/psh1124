@@ -1,4 +1,4 @@
-<div>
+<div align= "center">
     <img src="https://github.com/user-attachments/assets/4ccc8819-8c18-4873-bd95-6e17e0faa6660" />
 </div>
 
