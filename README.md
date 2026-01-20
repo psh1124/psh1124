@@ -1,3 +1,7 @@
+<div>
+    <img src="https://github.com/user-attachments/assets/b444d50e-722b-473b-b75b-55b9255bdf20" />
+</div>
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=SeongHun's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
